@@ -126,13 +126,13 @@
 }
 
 .level.level1 div {
-	width: 50%;
-}
-
-.level.level2 div {
 	width: 70%;
 }
 
+.level.level2 div {
+	width: 30%;
+}
+
 .level.level3 div {
-	width: 80%;
+	width: 60%;
 }

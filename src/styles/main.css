@@ -25,6 +25,8 @@ section {
 .dark-theme{
 	--white:#000106;
 	--primary-l:#000106 ;
+	--gray: #ffffff;
+	--black:#ffffff;
 }
 
 * {
