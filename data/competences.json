@@ -13,5 +13,10 @@
 		"icon": "./assets/icons/Icon-2.svg",
 		"title": "FrontEnd",
 		"desc": "J'utilise JavasScript; son framework React et ces librairies pour créer des pages intéractives"
+	},
+	{
+		"icon": "./assets/icons/Icon-2.svg",
+		"title": "FrontEnd",
+		"desc": "J'utilise JavasScript; son framework React et ces librairies pour créer des pages intéractives"
 	}
 ]
